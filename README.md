@@ -5,7 +5,9 @@ App with TrayIcon (with status of new messages) to Gmail in Linux
 
 ## Instalation
 ```bash
-git clone https://github.com/thiagotognoli/gmail-app-linux && ./gmail-app-linux/install.sh && rm -rf gmail-app-linux
+git clone https://github.com/thiagotognoli/gmail-app-linux \
+  && ./gmail-app-linux/install.sh \
+  && rm -rf gmail-app-linux
 ```
 
 ## Compile (wait nativefier pull request to accept --status-icon)
