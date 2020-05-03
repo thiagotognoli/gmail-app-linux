@@ -6,7 +6,7 @@ App with TrayIcon (with status of new messages) to Gmail in Linux
 ## Instalation
 ```bash
 git clone https://github.com/thiagotognoli/gmail-app-linux \
-  && ./gmail-app-linux/install.sh \
+  && ./gmail-app-linux/install-zip.sh \
   && rm -rf gmail-app-linux
 ```
 
@@ -18,6 +18,6 @@ sudo npm install nativefier -g \
 ```
 
 ## Credits
-"Gmail-linux-x64" subfolder generated using a [Thiago Tognoli fork](https://github.com/thiagotognoli/nativefier/tree/feature/iconStatus) of [nativefier](https://github.com/jiahaog/nativefier).
+"Gmail-linux-x64.zip" file generated using a [Thiago Tognoli nativefier fork](https://github.com/thiagotognoli/nativefier/tree/feature/iconStatus) of [nativefier](https://github.com/jiahaog/nativefier).
 
 
