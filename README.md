@@ -16,6 +16,6 @@ sudo npm install nativefier -g \
 ```
 
 ## Credits
-"Gmail-linux-x64" subfolder generated using a Thiago Tognoli's fork (https://github.com/thiagotognoli/nativefier/tree/feature/iconStatus) of nativefier (https://github.com/jiahaog/nativefier).
+"Gmail-linux-x64" subfolder generated using a [Thiago Tognoli fork](https://github.com/thiagotognoli/nativefier/tree/feature/iconStatus) of [nativefier](https://github.com/jiahaog/nativefier).
 
 
