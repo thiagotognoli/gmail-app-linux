@@ -1,6 +1,7 @@
 # Gmail App To Linux
 
-App with tray to Gmail
+App with TrayIcon (with status of new messages) to Gmail in Linux
+
 
 ## Instalation
 ```bash
